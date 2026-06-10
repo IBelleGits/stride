@@ -67,27 +67,25 @@ Dit gaat ontzettend in je hoofd zitten en zal er juist voor zorgen dat mensen me
 V INSTALLATIE INSTRUCTIES V
 
 Hoe importeer ik de database?:
-    1. Open phpMyAdmin in je browser (localhost/phpmyadmin)
-    2. Klik op de "Importeren" tab bovenaan
-    3. Klik op "Bestand kiezen" en selecteer het "import.sql"
-    4. Klik op "Uitvoeren"
+1. Open phpMyAdmin in je browser (localhost/phpmyadmin)
+2. Klik op de "Importeren" tab bovenaan
+3. Klik op "Bestand kiezen" en selecteer het "import.sql"
+4. Klik op "Uitvoeren"
 
 Hoe zie ik de applicatie in mijn browser?:
-    1. Open XAMPP (of download XAMPP als je dit nog niet hebt geinstalleerd)
-    2. Start Apache en MySQL
-    3. Maak een mapje genaamd "Stride" aan in verkenner in de volgende map:
-        "C:\xampp\htdocs"
-    4. Plaats de bestanden in de "Stride" map
-    5. Open de volgende link in je browser:
-        http://localhost/Stride/intro_pg.php
+1. Open XAMPP (of download XAMPP als je dit nog niet hebt geinstalleerd)
+2. Start Apache en MySQL
+3. Maak een mapje genaamd "Stride" aan in verkenner in de volgende map: "C:\xampp\htdocs"
+4. Plaats de bestanden in de "Stride" map
+5. Open de volgende link in je browser: http://localhost/Stride/intro_pg.php
 
 In deze applicatie is gewerkt met de volgende talen:
-    1. HTML
-    2. CSS
-    3. Bootstrap
-    4. PHP
-    5. Javascript
-    6. MySQL
+1. HTML
+2. CSS
+3. Bootstrap
+4. PHP
+5. Javascript
+6. MySQL
 
 V REPOSITORY V
 
