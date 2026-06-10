@@ -72,6 +72,15 @@ Hoe importeer ik de database?:
     3. Klik op "Bestand kiezen" en selecteer het "import.sql"
     4. Klik op "Uitvoeren"
 
+Hoe zie ik de applicatie in mijn browser?:
+    1. Open XAMPP (of download XAMPP als je dit nog niet hebt geinstalleerd)
+    2. Start Apache en MySQL
+    3. Maak een mapje genaamd "Stride" aan in verkenner in de volgende map:
+        "C:\xampp\htdocs"
+    4. Plaats de bestanden in de "Stride" map
+    5. Open de volgende link in je browser:
+        http://localhost/Stride/intro_pg.php
+
 In deze applicatie is gewerkt met de volgende talen:
     1. HTML
     2. CSS
