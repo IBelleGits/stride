@@ -67,7 +67,7 @@ Dit gaat ontzettend in je hoofd zitten en zal er juist voor zorgen dat mensen me
 V INSTALLATIE INSTRUCTIES V
 
 LET OP! 
-De database moet geimporteerd zijn voordat de applicatie gebruikt kan worden
+De database moet geimporteerd zijn voordat de applicatie gebruikt kan worden.
 
 Hoe zie ik de applicatie in mijn browser?:
 1. Open XAMPP (of download XAMPP als je dit nog niet hebt geinstalleerd)
